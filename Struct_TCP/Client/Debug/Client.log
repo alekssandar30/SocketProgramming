@@ -1,0 +1,4 @@
+﻿  Client.cpp
+c:\users\sale\desktop\4. godina\blok 1\socketprogramming\struct_tcp\client\client.cpp(39): warning C4101: 'sendBuff': unreferenced local variable
+c:\users\sale\desktop\4. godina\blok 1\socketprogramming\struct_tcp\client\client.cpp(41): warning C4101: 'poruka': unreferenced local variable
+  Client.vcxproj -> C:\Users\sale\Desktop\4. Godina\Blok 1\SocketProgramming\Struct_TCP\Debug\Client.exe
